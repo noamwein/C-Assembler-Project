@@ -1,5 +1,4 @@
-/* Made by: Noam Weingarten.
- * ID: 328238928. */
+/* Made by: Noam Weingarten. */
 #include "passes.h"
 
 int main(int argc, char * argv[]){
